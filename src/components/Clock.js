@@ -13,9 +13,9 @@ const Clock = () => {
     }, 1000);
 
     return (
-        <>
-            <h2 className="watch">{watch}</h2>
-        </>
+        <div className="watch">
+            <h2>{watch}</h2>
+        </div>
     )
 };
 
