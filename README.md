@@ -9,5 +9,5 @@
 [React_ToDoList](https://kroomoo.github.io/React_ToDoList/)
 
 ## 사용 API
-[명언 API](https://favqs.com/api)
-[날씨 API](https://openweathermap.org/current)
+- [명언 API](https://favqs.com/api)
+- [날씨 API](https://openweathermap.org/current)
